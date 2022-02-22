@@ -40,7 +40,7 @@ _**Never drink and drive and if you do call me =D .**_
 
 
 
-**Something from chemical POV**
+<!-- **Something from chemical POV**
 
 
 
@@ -69,7 +69,7 @@ CH3CH2OH(l) + O2(g) → CH3COOH(l) + H2O(l)
 
 
 The electrical current produced by this reaction is measured by a microprocessor, and displayed as an approximation of overall blood alcohol content (BAC) by the Alcosensor.
-
+ -->
 
 
 
@@ -97,10 +97,6 @@ Here are some other situations. Note that as the smoke comes near the sensor led
 
 
 
-![2](https://user-images.githubusercontent.com/96690206/155204942-4bfde64f-68a9-406d-a568-23aa3e4c5187.png)
-
-
-
 
 
 ![3](https://user-images.githubusercontent.com/96690206/155204972-b26116d3-2d7c-4a27-9e60-e4b21823384d.png)
@@ -121,7 +117,9 @@ Here are some other situations. Note that as the smoke comes near the sensor led
 
 
 
-Finally a circcuit which will make things more clear for you. 
+Finally a circuit which will make things more clear for you. 
+
+
 
 
 
