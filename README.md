@@ -40,7 +40,7 @@ _**Never drink and drive and if you do call me =D .**_
 
 
 
-<!-- **Something from chemical POV**
+**Something from chemical POV**
 
 
 
@@ -69,7 +69,7 @@ CH3CH2OH(l) + O2(g) → CH3COOH(l) + H2O(l)
 
 
 The electrical current produced by this reaction is measured by a microprocessor, and displayed as an approximation of overall blood alcohol content (BAC) by the Alcosensor.
- -->
+
 
 
 
